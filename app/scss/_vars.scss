@@ -1,0 +1,36 @@
+$text: #838383;
+$title: #1a292f;;
+
+
+@mixin fr300 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+}
+@mixin fr400 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+@mixin fr500 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+}
+@mixin fr600 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+}
+@mixin fr700 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+@mixin fr800 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+}
+@mixin fp400 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+}
+@mixin fp700 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+}
